@@ -1,10 +1,10 @@
-# NWNX:EE (build 8193.5 - v79 STABLE)
+[![Discord](https://img.shields.io/discord/382306806866771978.svg?colorB=7289DA&label=Discord&logo=Discord&logoColor=7289DA&style=flat-square)](https://discord.gg/hxTt8Fr)
 
-This branch contains the latest stable build of NWN. It is only current in cases when the [master](https://github.com/nwnxee/unified/tree/master) branch is targeting a development build. If the master branch is targeting a stable build, this branch is one stable build out of date.
+# NWNX:EE (build 8193.9 - v80 - STABLE build)
 
-- Target release: [build8193.5](https://github.com/nwnxee/unified/releases/tag/build8193.5) - [Changelog](https://github.com/nwnxee/unified/blob/nwnx-stable/CHANGELOG.md#81935) 
-- Docker tag: `nwnxee/unified:build8193.5`
-- nwserver-linux md5: `b5d9a1a78527fd3f316788713eab1aeb`
+- Latest release: [build8193.9](https://github.com/nwnxee/unified/releases/tag/build8193.9) - [Changelog](https://github.com/nwnxee/unified/blob/master/CHANGELOG.md#81937) 
+- Docker tag: `nwnxee/unified:build8193.9`
+- nwserver-linux md5: `1d0a2b7317fa5c522c945a054a932378`
 
 
 
