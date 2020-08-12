@@ -9,7 +9,6 @@ This branch contains the latest stable build of NWN. It is only current in cases
 - nwserver-linux md5: `459c28f45ff9dd932a5b696aa572fc3a`
 
 
-
 @mainpage
 @tableofcontents
 
